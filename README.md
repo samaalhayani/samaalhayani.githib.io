@@ -1,3 +1,2 @@
 # samaalhayani.githib.io
-Portfolio
-My name is Sama Al-Hayani
+My name is Sama Al-Hayani (Portfolio)
